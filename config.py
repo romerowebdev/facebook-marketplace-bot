@@ -8,11 +8,11 @@
 ##############################
 
 # Enter your email Facebook account
-email = "email.test@exemple.com"
+email = "9727414273"
 # Enter your password Facebook account
-password = "AwesomePass"
+password = "Lexuss@2022"
 # Enter your phone number
-phone_number = "01 02 03 04 05"
+phone_number = "97 27 41 42 73"
 
 
 default_message = """
